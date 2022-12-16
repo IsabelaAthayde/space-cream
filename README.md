@@ -1,6 +1,7 @@
 # Space-Cream
 
-This project is a ice creams shop prototype, that has it design based on space
+This project is a ice creams shop prototype, that has it design based on space.
+---
 With a responsive web designer i was able to make the application work in all platforms
 
 ---
